@@ -1,5 +1,5 @@
 # Tyk Custom Dashboard
-This dashboard presents Tyk API list with information such as API name, associated policies and key information. This will user Tyk REST API as well as Dashboard API to retrieve data.
+This dashboard presents Tyk API list with information such as API name/category, associated policies and key details. This will use Tyk REST API and Dashboard API to retrieve data.
 
 ![alt dashboard1](https://raw.githubusercontent.com/scorpio23/tyk-ops-portal/master/documentation/1.png)
 ![alt dashboard2](https://raw.githubusercontent.com/scorpio23/tyk-ops-portal/master/documentation/2.png)
